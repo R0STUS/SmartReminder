@@ -37,3 +37,4 @@ int main() {
 	Json jconfig = getJson("res/config.json");
 	Config config = jtconfig(jconfig);
 }
+// It's only alpha-test! In the future this will be replaced
